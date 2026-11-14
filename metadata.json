@@ -1,0 +1,6 @@
+{
+  "name": "SmartPark Finder",
+  "description": "Smart Parking Finder – Real-Time Parking Slot Reservation System with live Socket.IO availability, ACID MongoDB reservations, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
